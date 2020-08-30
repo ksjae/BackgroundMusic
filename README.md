@@ -2,8 +2,8 @@
 
 ![](Images/README/FermataIcon.png)
 
-# Background Music
-##### macOS audio utility
+# Background Music w/ custom edits (DEPRECATED)
+##### macOS audio utility **ARCHIVED**
 
 <img src="Images/README/Screenshot.png" width="340" height="342" />
 
